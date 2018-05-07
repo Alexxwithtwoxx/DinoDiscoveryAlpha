@@ -13,7 +13,12 @@ public class MainActivity extends AppCompatActivity {
 
     private void testFunction() {
         int i = 1 + 1;
+        int ii = 50;
 
         int j = 2 * 2;
+    }
+
+    public void player() {
+
     }
 }
