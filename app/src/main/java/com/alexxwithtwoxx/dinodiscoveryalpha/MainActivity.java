@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private void testFunction() {
         int i = 1 + 1;
         int ii = 500;
+        int jj = 150;
 
         int j = 2 * 2;
     }
